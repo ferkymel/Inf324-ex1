@@ -1,0 +1,33 @@
+﻿.sr-only {
+    display: none; /* Cambia el valor de display a "inline" */
+    visibility: hidden; /* Cambia el valor de visibility a "visible" */
+}
+  
+  .navbar a {
+    color: rgb(212, 210, 210);
+  }
+
+  .container-fluid ul li a:hover {
+    color: #1de6d5;
+  }
+
+.footer {
+    background-color: #f9f9f9;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer p {
+    color: #333;
+    font-size: 14px;
+  }
+  
+  .list-inline {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .social-links li {
+    display: inline-block;
+    margin-left: 5px;
+  }
